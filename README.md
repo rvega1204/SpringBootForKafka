@@ -17,7 +17,7 @@ This project demonstrates the integration of Apache Kafka with a Spring Boot app
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-repo/SpringBootForKafka.git
+    git clone https://github.com/rvega1204/SpringBootForKafka.git
     cd SpringBootForKafka
     ```
 
